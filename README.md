@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shahraship
-- 👀 I’m interested in javascript frameworks (angular, react, vue, stencil, ionic, capacitor), typescript, nodejs, html5, web components, web assembly, web rtc
+- 👀 I’m interested in javascript frameworks (angular, react, vue, stencil, ionic, capacitor), typescript, nodejs, html5, web components, web assembly, web rtc, web sockets and much more.
 - 🌱 I’m currently learning, how to be a better husband, son, father, person and a developer.
 - 💞️ I’m looking to collaborate on ideas that inspire and will help make world a better place.
 - 📫 How to reach me: twitter: @shahraship, facebook / instagram: @shahraship or email.
